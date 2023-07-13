@@ -1,5 +1,5 @@
 === Adminbar ===
-Contributors: litonice13, bigalex
+Contributors: jwthemeltd, bigalex
 Donate link: https://www.buymeacoffee.com/jeweltheme
 Tags: admin bar, adminbar, admin, bar, topbar
 Requires at least: 3
@@ -10,14 +10,14 @@ License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
 
-
 This plugin adds an adminbar on the top like in Wordpress.com. Screenshots on my website.
 
 == Description ==
 
 This plugin adds an adminbar on the top like in Wordpress.com. You can edit it to add more shortcuts, but i think it should work well
 without any modification :P
-Screenshots are here: http://www.bigalex.it/plugins/adminbar/
+
+This is the updated version, originally developed by @bigalex
 
 == Installation ==
 
@@ -26,9 +26,6 @@ Screenshots are here: http://www.bigalex.it/plugins/adminbar/
 3. Enjoy!
 
 
-== Changelog 1.1 ==
-- Fixed absolute path with relative path
-
 == Changelog  ==
 
 = 1.2.1 (12-07-2023)=
@@ -36,3 +33,6 @@ Screenshots are here: http://www.bigalex.it/plugins/adminbar/
 
 = 1.2 =
 - Easy configuration with arrays, fixed the plugin with internet explorer
+
+= 1.1 ==
+- Fixed absolute path with relative path
