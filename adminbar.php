@@ -4,7 +4,7 @@
  * Plugin URI:  https://github.com/jeweltheme/adminbar
  * Description: This plugin adds an adminbar like in Wordpress.com
  * Version:     1.2.1
- * Author:      Liton Arefin
+ * Author:      Jewel Theme
  * Author URI:  https://profiles.wordpress.org/jwthemeltd
  * Text Domain: adminbar
  * Domain Path: /languages/
